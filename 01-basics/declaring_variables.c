@@ -1,3 +1,4 @@
+//
 #include<stdio.h>
 int main(){
     int a=3;
@@ -5,14 +6,14 @@ int main(){
     a=5;
     printf("%d\n",a);
 }
-.....................................................
+// 
 #include<stdio.h>
 int main(){
     int a=3;
     int b=a;
     printf("%d %d",a,b);
 }
-......................................................
+//
 #include<stdio.h>
 int main(){
     int a,b,c;
